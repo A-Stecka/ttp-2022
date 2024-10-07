@@ -1,5 +1,5 @@
-# Travelling Thief Problem solver
-Travelling Thief Problem solver created as part of the Metaheuristics in Problem Solving course
+# Travelling Thief Problem solver 
+Travelling Thief Problem solver created as part of the Metaheuristics in Problem Solving course during my engineering degree
 -
 The Travelling Thief Problem (TTP) involves a thief who has to visit n cities (each city must be visited exactly once), where specific items are located, and in each cichy choose which items from this city they should put in their backpack. 
 The thief's backpack has a limited capacity and the items have specific weights. The heavier the backpack, the slower the thief moves from city to city. The thief's goal is to obtain the most valuable items in the shortest amount of time.
